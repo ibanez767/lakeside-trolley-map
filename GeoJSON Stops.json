@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.86364873, 42.46024417]
+      },
+      "properties": {
+        "name": "Finger Lakes Distilling",
+        "website": "https://fingerlakesdistilling.com/",
+        "highlights": "Craft cocktails, high-end whiskeys, gin, vodka, brandy, cordials",
+        "must_try": "",
+        "stop_type": "Distillery",
+        "food": "Small bites",
+        "view": "****",
+        "main_image": "",
+        "activities": "Distillery Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.86407267, 42.46152612]
+      },
+      "properties": {
+        "name": "Damiani Wine Cellars",
+        "website": "https://damianiwinecellars.com/",
+        "highlights": "Known for their outstanding dry wines and red wines.",
+        "must_try": "Brut (champagne methodoise) & Saperavi (red wine)",
+        "stop_type": "Winery",
+        "food": "Food truck on certain days, cheese plates every day",
+        "view": "****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/acec3232-77d2-4026-b71c-1232aadd1d69/cheers+at+damiani.jpg?content-type=image%2Fjpeg",
+        "activities": "Patio bar & bocce ball"
+      }
+    },
+   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.47096036,-76.86575273]
+      },
+      "properties": {
+        "name": "Grist Iron Brewing Co.",
+        "website": "https://www.gristironbrewing.com/",
+        "highlights": "High energy, craft beer, good food, live music & a great view",
+        "must_try": "Campfire Lite Lager with a Ham & Honey Pizza",
+        "stop_type": "Brewery",
+        "food": "Pizza, Handhelds & Salads",
+        "view": "*****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/cbb6cdf6-3679-4ac3-83e0-8fa79a8bc2d5/Grist+iron+patio3.jpg?content-type=image%2Fjpeg",
+        "activities": "Corn hole & live music"
+      }
+   },
+    
+   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4723664665706, -76.866291889155]
+      },
+      "properties": {
+        "name": "J.R. Dill Winery",
+        "website": "https://jrdillwinery.com/",
+        "highlights": "High quality wines, beautiful deck seating, local beers on tap",
+        "must_try": "DeChaunac Red Wine",
+        "stop_type": "Winery",
+        "food": "Small bites",
+        "view": "****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/2aa72b3a-15f7-4d2f-a513-6da71b18c92d/JR+Dill+Winery+Building+Front.jpg?content-type=image%2Fjpeg",
+        "activities": "Guided wine tastings"
+      }
+   },
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.5106923216594, -76.8760766396912]
+      },
+      "properties": {
+        "name": "Hazlitt 1852 Vineyards",
+        "website": "https://hazlitt1852.com/",
+        "highlights": "Lively winery with activities, live music & a large selection of wines",
+        "must_try": "Red Cat (labrusca wine) & wine slushies",
+        "stop_type": "Winery",
+        "food": "Sandwiches & Small bites",
+        "view": "***",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/c0a7e16b-d15d-4b0f-9fbb-889d23c70c75/Hazlitt+1852+vineyards.jpg?content-type=image%2Fjpeg",
+        "activities": "Live music & outdoor games"
+      }
+   },
+
+
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4459629426804, -76.8641599603214]
+      },
+      "properties": {
+        "name": "Solera Tap House",
+        "website": "https://solerataphouse.com/",
+        "highlights": "Friendly atmosphere, good food, uinique beers, craft cocktails",
+        "must_try": "Rosemary Whiskey Sour & a Chicken Spiedie",
+        "stop_type": "Bar & Restaurant",
+        "food": "Sandwiches & BBQ",
+        "view": "**",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/ec079641-dfad-43b0-abda-478adf353773/solera+Tap+house+bartender.jpg?content-type=image%2Fjpeg",
+        "activities": "Darts, cornhole & live music"
+      }
+   },
+
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4182608805943, -76.9017677198397]
+      },
+      "properties": {
+        "name": "3812 Bistro & Lakeside Resort",
+        "website": "https://3812bistro.com/",
+        "highlights": "Regional cuisine with local ingredients, local wines and beers on tap, great view of Hector Falls",
+        "must_try": "Chicken Picatta & a cocktail",
+        "stop_type": "Restaurant & Lodging",
+        "food": "Full menu",
+        "view": "*****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/51a6c0ec-d882-40eb-9a3b-f68245f4332e/picnic+at+lakeside+resort.jpg?content-type=image%2Fjpeg",
+        "activities": "Firepit, waterfall hike, cornhole, picnics"
+      }
+   },
+
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4290853341338, -76.9060214314874]
+      },
+      "properties": {
+        "name": "Lakewood Vineyards",
+        "website": "https://lakewoodvineyards.com/guided-tour-tasting-booking/",
+        "highlights": "Pillar of the FLX wine community, beautiful vineyards, great wine at an affordable price",
+        "must_try": "Bubbly Candeo, meads & ports",
+        "stop_type": "Winery",
+        "food": "Small bites",
+        "view": "****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/be74f98a-23a7-42af-aba8-91ac21165f19/Lakewood+Vineyard+Tasting.jpg?content-type=image%2Fjpeg",
+        "activities": "Vineyard hike, winery tours, guided wine tastings"
+      }
+   },
+
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4358834995617, -76.9070588351793]
+      },
+      "properties": {
+        "name": "Barnstormer Winery",
+        "website": "https://barnstormerwinery.com/",
+        "highlights": "High end wines, outstanding Rieslings, very informative tastings",
+        "must_try": "Any of their Rieslings",
+        "stop_type": "Winery",
+        "food": "Occasional in-house catering",
+        "view": "***",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/9b751fc6-cb6e-4f87-8b20-21e12149d24d/Barnstormer-Building.jpg?content-type=image%2Fjpeg",
+        "activities": "Informative wine tastings"
+      }
+   },
+
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4718063001156, -76.9196698756606]
+      },
+      "properties": {
+        "name": "Rock Stream Vineyards",
+        "website": "https://www.rockstreamvineyards.com/",
+        "highlights": "Wine selection with a variety of hybrids and labruscas, grappas & liqueurs ",
+        "must_try": "OMG Vino & any liqueur",
+        "stop_type": "Winery",
+        "food": "Small bites, Pizza on Saturdays, occasional food truck",
+        "view": "**",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/51aee061-67a1-4f14-b9b4-7335a2642780/Rock+Stream+Vineyards+Building.jpg?content-type=image%2Fjpeg",
+        "activities": "Guided wine tastings"
+      }
+   },
+
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.5001615925438, -76.9238584063401]
+      },
+      "properties": {
+        "name": "Glenora Wine Cellars",
+        "website": "https://www.glenora.com/",
+        "highlights": "Oldest legal winery on Seneca Lake, large variety of wines, fruit wines, wine slushies",
+        "must_try": "Wild yeast Riesling, wine slushies",
+        "stop_type": "Winery",
+        "food": "Full menu",
+        "view": "*****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/06bfa011-bc69-435c-83b1-7005f032e497/Glenora-Wine-Cellars-clouds%400.5x.jpg?content-type=image%2Fjpeg",
+        "activities": "Jazz festival, guided tastings, restaurant"
+      }
+   },
+
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4928243915184, -76.9243100544943]
+      },
+      "properties": {
+        "name": "Fulkerson Winery",
+        "website": "https://www.fulkersonwinery.com/",
+        "highlights": "Disc golf, vineyard hike, elegant tasting room",
+        "must_try": "Red Zeppelin wine, grape juice made from vinifera grapes",
+        "stop_type": "Winery",
+        "food": "Small bites",
+        "view": "***",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/6df9fd57-c186-4096-bff6-f714e0503421/Fulkerson+Tasting+Room%400.5x.jpg?content-type=image%2Fjpeg",
+        "activities": "Disc golf, square dancing, unique activities"
+      }
+   },
+
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.4509891815434, -76.9101728873101]
+      },
+      "properties": {
+        "name": "Toast Winery",
+        "website": "https://www.toastwineryflx.com/",
+        "highlights": "Unique and bold wines, sangrias & unique wine & food pairings",
+        "must_try": "Zweigelt red wine, Rita white wine & Sangrias",
+        "stop_type": "Winery",
+        "food": "Great cheese plates",
+        "view": "**",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/e3bf65ac-8968-4689-8d86-32d405c51172/Toast+winery+collection.jpg?content-type=image%2Fjpeg",
+        "activities": "Live music, pickle and wine pairings"
+      }
+   },
+
+
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.3814802701116, -76.8737995652358]
+      },
+      "properties": {
+        "name": "Downtown Watkins Glen",
+        "website": "https://www.explorewatkinsglen.com/",
+        "highlights": "Artisan shops, cafes, restaurants, bars, movie theater, events",
+        "must_try": "Watkins Glen Gorge Waterfalls",
+        "stop_type": "Downtown",
+        "food": "Several Restaurants",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/3a77254e-1d2a-4b12-914c-40389ddb074e/Shops+at+Downtown+Watkins+Glen.jpg?content-type=image%2Fjpeg",
+        "activities": "Waterfall hike, shoppings, cinema, festivals and events"
+      }
+   },
+    
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.3839526121377, -76.8719852983322]
+      },
+      "properties": {
+        "name": "Seneca Harbor Park (Lakeside Trolley ticket booth)",
+        "highlights": "Boat tours, restaurants, harbor hotel, Watkins Glen Boat House Pier",
+        "must_try": "Sail the True Love Schooner sunset cruise",
+        "stop_type": "Downtown",
+        "food": "Several Restaurants",
+        "view": "*****",
+        "main_image": "https://images.squarespace-cdn.com/content/63b58d31dc3e605e5403d5a0/0d67ec50-55d7-4007-894c-0a2a77c36a1c/Watkins+Glen+Boat+House.png?content-type=image%2Fpng",
+        "activities": "Sail the True Love, Seneca Legacy dinner cruise, Seneca Spirit boat tour, kayak rentals, Watkins Glen Boat House & Pier"
+      }
+   },
+    
+  ]
+    }
